@@ -1,0 +1,8 @@
+Frankenstein, 5.99
+Python Crash Course, 30.61
+Brave New World, 17.89
+One Hundred Years Of Solitude, 14.33
+A Farewell to Arms, 29.10
+The Grapes of Wrath, 22.83
+The C++ Programming Langage, 71.49
+Starting Out with Java: Early Objects, 143.59
