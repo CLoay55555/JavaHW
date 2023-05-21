@@ -123,7 +123,7 @@ public class Final extends Application{
 			}});
 		
 	}
-	//Creates ovbservablelist by from data on a text file.
+	//Creates ovbservablelist from data on a text file.
 	public ObservableList<Book> getBooks(){
 		
 		ObservableList<Book> books = FXCollections.observableArrayList();
